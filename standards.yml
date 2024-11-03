@@ -1,0 +1,13 @@
+- name: OpenAPI
+  image: /images/openapi.png
+  description: The OpenAPI Specifications provides a formal standard for describing HTTP APIs.
+  tags:
+    - HTTP APIs
+    - Linux Foundation 
+- name: JSON Schema
+  image: /images/json-schema.png
+  description: JSON Schema enables the confident and reliable use of the JSON data format.
+  tags:
+    - JSON
+    - Schema
+    - Validation
